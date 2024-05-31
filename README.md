@@ -4,7 +4,8 @@ Java, C, HTML, Flutter, R Programming, Tableau
 
 ### Education
 BCA in ComputerScience | University of Kerala (_2021)
-PlusTwo Science        | SMV Hss
+
+PlusTwo Science        | SMV Hss(_2018)
 
 ### WorkExperience
 Data Analytics Intern
